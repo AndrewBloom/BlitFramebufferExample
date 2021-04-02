@@ -1,0 +1,43 @@
+{
+  "stringTable": {
+    "0": "/Users/bloom/sw_develop/Tests/BlitFramebuffer/hello-gl2/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=/Users/bloom/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bloom/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dgl2jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/bloom/Library/Android/sdk/ndk/21.2.6472646/build/cmake/platforms.cmake",
+    "/Users/bloom/Library/Android/sdk/ndk/21.2.6472646/build/cmake/android.toolchain.cmake",
+    "/Users/bloom/sw_develop/Tests/BlitFramebuffer/hello-gl2/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/bloom/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bloom/sw_develop/Tests/BlitFramebuffer/hello-gl2/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/bloom/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/bloom/sw_develop/Tests/BlitFramebuffer/hello-gl2/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "gl2jni-Debug-arm64-v8a": {
+      "buildCommand": "/Users/bloom/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bloom/sw_develop/Tests/BlitFramebuffer/hello-gl2/app/.cxx/cmake/debug/arm64-v8a\" gl2jni",
+      "buildType": "debug",
+      "toolchain": "1236444900",
+      "abi": "arm64-v8a",
+      "artifactName": "gl2jni",
+      "files": [
+        {
+          "src": "/Users/bloom/sw_develop/Tests/BlitFramebuffer/hello-gl2/app/src/main/cpp/gl_code.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/bloom/sw_develop/Tests/BlitFramebuffer/hello-gl2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgl2jni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1236444900": {
+      "cppCompilerExecutable": "/Users/bloom/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,4 @@
+#Fri Apr 02 15:36:46 BST 2021
+base.0=/Users/bloom/sw_develop/Tests/BlitFramebuffer/hello-gl2/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
