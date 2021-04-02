@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/Users/bloom/sw_develop/Tests/BlitFramebuffer/hello-gl2/app/.cxx/cmake/release/x86",
-  "command": "/Users/bloom/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android18 --gcc-toolchain=/Users/bloom/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bloom/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dgl2jni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -O2 -DNDEBUG  -fPIC   -o CMakeFiles/gl2jni.dir/gl_code.cpp.o -c /Users/bloom/sw_develop/Tests/BlitFramebuffer/hello-gl2/app/src/main/cpp/gl_code.cpp",
-  "file": "/Users/bloom/sw_develop/Tests/BlitFramebuffer/hello-gl2/app/src/main/cpp/gl_code.cpp"
-}
-]

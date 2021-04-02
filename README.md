@@ -1,5 +1,7 @@
-Hello GL2
-=========
+Hello GL2 mod - Blit Framebuffer using openGl es 3
+==================================================
+Original README following:
+
 Hello GL2 is an Android C++ sample that draws a triangle using GLES 2.0 API.
 
 It uses JNI to do the rendering in C++ over a
